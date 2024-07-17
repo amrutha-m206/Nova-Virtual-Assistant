@@ -20,7 +20,7 @@ The project requires the following Python packages:
 - `requests`
 - `cohere`
 
- he project also uses the following standard Python libraries:
+ The project also uses the following standard Python libraries:
 
 - `webbrowser`
 - `datetime`
