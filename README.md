@@ -1,5 +1,5 @@
 # Nova-Virtual-Assistant
-This is a simple voice assistant developed using Python. The assistant can capture user's speech and respond to various commands through voice, such as opening websites, playing music, providing weather updates,current date and time and user's questions.
+This is a simple voice assistant developed using Python. The assistant can capture user's speech and respond to various commands through voice, such as opening websites, playing music, providing weather updates,giving the current date and time, and answering user questions.
 
 ## Features
 
