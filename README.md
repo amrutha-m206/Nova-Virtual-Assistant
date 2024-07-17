@@ -9,6 +9,7 @@ This is a simple voice assistant developed using Python. The assistant can respo
 - Play music from a predefined list
 - Get the latest news headlines
 - Get the current time and date
+- Get the current weather updates 
 - Interact with an AI chatbot using Cohere
 
 ## Dependencies
