@@ -16,7 +16,6 @@ This is a simple voice assistant developed using Python. The assistant can respo
 The project requires the following Python packages:
 
 - `SpeechRecognition`
-- `PyAudio`
 - `pyttsx3`
 - `requests`
 - `cohere`
